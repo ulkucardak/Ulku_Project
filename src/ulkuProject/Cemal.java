@@ -1,6 +1,9 @@
 package ulkuProject;
 
 public class Cemal {
+    // Cemal initial
 
-    //Cemal class
+    // cemal step2
+
+    // cemal step3
 }
