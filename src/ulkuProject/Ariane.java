@@ -12,6 +12,6 @@ public class Ariane {
         System.out.println(x+15);
 
         int y=x*2;
-
+        System.out.println(y);
     }
 }
