@@ -15,5 +15,7 @@ public class Ariane {
         System.out.println(y);
 
         // let's add some changes
+
+        System.out.println(y/2);
     }
 }
