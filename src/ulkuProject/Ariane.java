@@ -9,5 +9,6 @@ public class Ariane {
         System.out.println(x+20);
         System.out.println(x+10);
         //
+        System.out.println(x+15);
     }
 }
