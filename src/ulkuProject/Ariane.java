@@ -7,3 +7,4 @@ public class Ariane {
         System.out.println("and a little message");
     }
 }
+
