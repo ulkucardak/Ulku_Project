@@ -13,5 +13,7 @@ public class Ariane {
 
         int y=x*2;
         System.out.println(y);
+
+        // let's add some changes
     }
 }
