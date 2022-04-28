@@ -5,5 +5,9 @@ public class Ariane {
     // second commit
     public static void main(String[] args) {
         System.out.println("and a little message");
+
+        int x=100;
+        System.out.println(x+20);
+// trying to create conflict
     }
 }
